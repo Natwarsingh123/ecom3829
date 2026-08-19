@@ -1,0 +1,13 @@
+<div class="product-gallery">
+  <img id="main-image" src="{{ product.product_image.url }}" alt="{{ product.name }}">
+  <div class="thumbnails">
+    {% for img in product.images.all|order_by:'order' %}
+      <img class="thumb" src="{{ img.image.url }}" alt="{{ img.alt_text }}" data-src="{{ img.image.url }}">
+    {% endfor %}
+  </div>
+</div>
+<script>
+  document.querySelectorAll('.thumb').forEach(t => {
+    t.onclick = () => document.getElementById('main-image').src = t.dataset.src;
+  });
+</script>
