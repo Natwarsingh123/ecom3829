@@ -1,0 +1,115 @@
+# 🛒 E-Commerce Website
+
+A modern and responsive eCommerce platform built to simplify online shopping. This project provides a seamless user experience with product browsing, shopping cart functionality, secure checkout, order tracking, and an admin dashboard for managing products and customers.
+
+---
+
+## 📌 Features
+
+### Customer Features
+- User Registration & Login
+- Product Catalog
+- Product Search
+- Category Filtering
+- Shopping Cart
+- Secure Checkout
+- Order Tracking
+- Responsive Design
+
+### Admin Features
+- Product Management
+- Inventory Control
+- Order Management
+- Customer Management
+- Dashboard Analytics
+
+---
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap (Optional)
+- REST APIs (Future Integration)
+- Payment Gateway Integration (Future Scope)
+
+---
+
+## 📂 Project Structure
+
+```bash
+ecommerce-website/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+└── images/
+    ├── hero-banner.jpg
+    ├── headphones.jpg
+    ├── smartwatch.jpg
+    └── gaming-mouse.jpg
+```
+
+## 🖼️ Website Preview
+
+### Home Page
+- Hero Banner
+- Product Showcase
+- Category Navigation
+- Shopping Cart
+
+### Featured Products
+- Wireless Headphones
+- Smart Watch
+- Gaming Mouse
+
+---
+
+## 📱 Responsive Design
+
+The website is fully responsive and supports:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
+
+---
+
+## 🔒 Security Features
+
+- User Authentication
+- Protected User Accounts
+- Secure Payment Workflow
+- Data Validation
+
+---
+
+## 🎯 Future Enhancements
+
+- Wishlist Feature
+- Product Reviews & Ratings
+- Coupon & Discount System
+- Multiple Payment Options
+- AI Product Recommendations
+- User Profile Management
+
+---
+
+## 👨‍💻 Author
+
+Developed as a complete eCommerce web application project for learning and portfolio purposes.
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+- Star this repository
+- Fork the project
+- Submit improvements via Pull Requests
+
+Happy Coding! 🚀
